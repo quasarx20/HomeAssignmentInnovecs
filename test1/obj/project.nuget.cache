@@ -1,0 +1,18 @@
+{
+  "version": 2,
+  "dgSpecHash": "sewStG13F17RWRe3rIOZZyv98G0mEGaQ8cs8f0eSSLnNdBpAuPPXy+SQR1GfXpWgEOStdp5Mf6qFMwHINiaJpw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\CamiloLara\\source\\repos\\Git\\HomeAssignmentInnovecs\\test1\\Home Assignment.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\microsoft.extensions.apidescription.server\\3.0.0\\microsoft.extensions.apidescription.server.3.0.0.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\microsoft.openapi\\1.2.3\\microsoft.openapi.1.2.3.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\newtonsoft.json\\13.0.1\\newtonsoft.json.13.0.1.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\restsharp\\108.0.1\\restsharp.108.0.1.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\restsharp.serializers.xml\\108.0.1\\restsharp.serializers.xml.108.0.1.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\swashbuckle.aspnetcore\\6.2.3\\swashbuckle.aspnetcore.6.2.3.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\swashbuckle.aspnetcore.swagger\\6.2.3\\swashbuckle.aspnetcore.swagger.6.2.3.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggergen\\6.2.3\\swashbuckle.aspnetcore.swaggergen.6.2.3.nupkg.sha512",
+    "C:\\Users\\CamiloLara\\.nuget\\packages\\swashbuckle.aspnetcore.swaggerui\\6.2.3\\swashbuckle.aspnetcore.swaggerui.6.2.3.nupkg.sha512"
+  ],
+  "logs": []
+}
